@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Yaseen
 
-<!--
-**s-yaseen-s/s-yaseen-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Building **J.A.R.V.I.S.** — Voice-controlled AI assistant with 20+ tools
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, JavaScript, SQL
+- **AI/ML:** GPT-4o, asyncio, faster-whisper, fury-sdk
+- **Web:** FastAPI, tkinter, WebSocket
+- **Cloud:** Google OAuth2, OpenAI API
+- **DevOps:** Docker-ready, CUDA optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [J.A.R.V.I.S.](https://github.com/s-yaseen-s/Jarvis-AI-assistant-) 
+  Voice-controlled AI with 20+ tools | Python, asyncio, GPT-4o
+
+## 📊 Stats
+- **14+ commits** on main project
+- **20+ integrated tools**
+- **GPU-accelerated** speech recognition
+- **Production-ready** documentation
+
+## 💼 Open to Internships
+Interested in: **AI/ML, Backend, Full-Stack** roles
+
+📧 Email: [your email]
+🔗 LinkedIn: [your LinkedIn]
