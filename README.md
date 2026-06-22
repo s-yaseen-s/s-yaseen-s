@@ -22,5 +22,5 @@
 ## 💼 Open to Internships
 Interested in: **AI/ML, Backend, Full-Stack** roles
 
-📧 Email: [your email]
-🔗 LinkedIn: [your LinkedIn]
+📧 Email: s-yaseen.bilal@zewailcity.edu.eg
+🔗 LinkedIn: www.linkedin.com/in/yaseen-mohammed-bilal-6979553b0
